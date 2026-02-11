@@ -5,7 +5,7 @@ import os
 # ======================================================
 # 1️⃣ إعداد الصفحة واللوجو
 # ======================================================
-logo_path = Company/Amaar_company/logo.png
+logo_path = r"Company/Amaar_company/logo.png"
 
 st.set_page_config(
     page_title="تحليل منصرف  النقدية",
@@ -235,3 +235,4 @@ st.divider()
 st.subheader("➡️ التقرير")
 if st.button(" الانتقال إلى  التقرير"):
     st.switch_page("pages/report.py")
+
