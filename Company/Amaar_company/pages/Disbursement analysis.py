@@ -5,7 +5,7 @@ import os
 # ======================================================
 # 1️⃣ إعداد الصفحة واللوجو
 # ======================================================
-logo_path = r"C:\Users\Lapcell\OneDrive\Desktop\Amaar Company\logo.png"
+logo_path = Company/Amaar_company/logo.png
 
 st.set_page_config(
     page_title="تحليل منصرف  النقدية",
